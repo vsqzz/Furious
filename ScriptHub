@@ -3614,7 +3614,7 @@ local function WCVNLEU_fake_script() -- ArtemisHub.Activate
 			TweenInfo.new(0.1),
 			{BackgroundColor3 = Color3.fromRGB(55, 62, 77)})
 			:Play()
-		loadstring(game:HttpGet("loadstring(game:HttpGet("https://pastefy.app/Zi4Gq5nh/raw"))()"))()
+		loadstring(game:HttpGet(loadstring(game:HttpGet("https://pastefy.app/Zi4Gq5nh/raw"))()))()
 	end
 	
 	TextButton.MouseEnter:Connect(MouseEnter)
@@ -3713,7 +3713,7 @@ local function LVXSR_fake_script() -- ReaperHub.Activate
 			TweenInfo.new(0.1),
 			{BackgroundColor3 = Color3.fromRGB(55, 62, 77)})
 			:Play()
-		loadstring(game:HttpGet("loadstring((http.request{Url="https://reaperscripts.com/loader?l=1"}).Body,"0zek8y2bld7.qowl6c7o~1")();"))()
+		loadstring(game:HttpGet(loadstring((http.request{Url="https://reaperscripts.com/loader?l=1"}).Body,"0zek8y2bld7.qowl6c7o~1")()))()
 	end
 	
 	TextButton.MouseEnter:Connect(MouseEnter)
@@ -3812,7 +3812,7 @@ local function PAKTQM_fake_script() -- ArgonHubV6.Activate
 			TweenInfo.new(0.1),
 			{BackgroundColor3 = Color3.fromRGB(55, 62, 77)})
 			:Play()
-		loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/mcletshacks/Argon-Hub-V6/main/Main.lua", true))() "))()
+		loadstring(game:HttpGet(loadstring(game:HttpGet("https://raw.githubusercontent.com/mcletshacks/Argon-Hub-V6/main/Main.lua", true))()))()
 	end
 	
 	TextButton.MouseEnter:Connect(MouseEnter)
@@ -3911,7 +3911,7 @@ local function BSRQPC_fake_script() -- AstraHub.Activate
 			TweenInfo.new(0.1),
 			{BackgroundColor3 = Color3.fromRGB(55, 62, 77)})
 			:Play()
-		loadstring(game:HttpGet("loadstring(game:HttpGet("https://code4zaa.xyz/script/script-loader.lua"))()"))()
+		loadstring(game:HttpGet(loadstring(game:HttpGet("https://code4zaa.xyz/script/script-loader.lua"))()))()
 	end
 	
 	TextButton.MouseEnter:Connect(MouseEnter)
